@@ -11,9 +11,9 @@ I am a Java Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git" **alt="Docker" width="45" height="45"/>&nbsp;
   <a href="https://www.thymeleaf.org/" target="_blank"><img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="Thymeleaf" width="45" height="45"/></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Git" **alt="Bootstrap" width="45" height="45"/>&nbsp;
   
   <a href="https://junit.org/junit5/" target="_blank"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" title="junit5" alt="junit5" width="45" height="45"/></a>&nbsp;
   <a href="https://site.mockito.org/" target="_blank"><img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" title="mockito" alt="mockito" width="90" height="45"/></a>&nbsp;
